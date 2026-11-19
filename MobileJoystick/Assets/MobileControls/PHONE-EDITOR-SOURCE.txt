@@ -1,0 +1,18 @@
+Phone* control sprites and ../MobileMenu/Editor* sprites are extracted from
+the connected phone's data.unity3d UI6 atlas using its original UI metadata.
+Regenerate with: python tools/prepare_control_editor_assets.py
+
+Source references are kept under obj/mobile-live-reference and obj/unity-atlases.
+The output preserves original sprite colors, outlines and transparent corners.
+RGB is premultiplied by alpha because tModLoader's PNG-to-rawimg conversion
+and RawImgReader preserve RGB while SpriteBatch uses AlphaBlend.
+
+Mount and loadout glyphs are cells from the original 0x5B4C13DC equipment
+sheet (34 x 34 pixels per cell); they are not cuts from a phone screenshot.
+Loadout colors are applied at draw time. Item buttons use Terraria item assets
+and the current held/healing item where applicable.
+
+PhoneEmptyGrappleGlyph is the original 34 x 34 grapple equipment placeholder
+cell (column 1, row 1) of 0x5B4C13DC. Equipped grapple artwork uses Terraria's
+native QuickGrapple_GetItemToUse item at runtime; the editor action picker
+continues to use its separate PhoneGrappleGlyph.

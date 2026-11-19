@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <LangVersion>12</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>MobileJoystick</AssemblyName>
+    <LauncherRoot Condition="'$(LauncherRoot)' == ''">$(MSBuildThisFileDirectory)..\..\..</LauncherRoot>
+    <DefineConstants>$(DefineConstants);TML_2026_09</DefineConstants>
+    <MonoMod_ReallySkipCheckTargetRuntime>true</MonoMod_ReallySkipCheckTargetRuntime>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="$(LauncherRoot)/build/game-references/*.dll" Private="false" />
+    <Reference Include="$(LauncherRoot)/external/monomod/*.dll" Private="false" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,205 @@
+{
+  "Toolbar": {
+    "sprite": "A9F00BF2",
+    "sheet": "UI6",
+    "region": [
+      1168,
+      804,
+      36,
+      36
+    ]
+  },
+  "Chat": {
+    "sprite": "7051E2CC",
+    "sheet": "UI6",
+    "region": [
+      166,
+      1028,
+      32,
+      26
+    ]
+  },
+  "ChatSelected": {
+    "sprite": "7051E2CC",
+    "sheet": "UI6",
+    "region": [
+      166,
+      1028,
+      32,
+      26
+    ],
+    "composition": "Original glyph with 1px gold selection contour, 2px transparent padding"
+  },
+  "Minimap": {
+    "sprite": "D2A2C6BB",
+    "sheet": "UI6",
+    "region": [
+      1181,
+      924,
+      32,
+      32
+    ]
+  },
+  "MinimapSelected": {
+    "sprite": "D2D1D2BC",
+    "sheet": "UI6",
+    "region": [
+      1144,
+      924,
+      32,
+      32
+    ]
+  },
+  "Map": {
+    "sprite": "80987346",
+    "sheet": "UI6",
+    "region": [
+      552,
+      936,
+      32,
+      32
+    ]
+  },
+  "MapSelected": {
+    "sprite": "80987346",
+    "sheet": "UI6",
+    "region": [
+      552,
+      936,
+      32,
+      32
+    ],
+    "composition": "Original glyph with 1px gold selection contour, 2px transparent padding"
+  },
+  "ChatPanel": {
+    "sprite": "3251BC48",
+    "sheet": "UI6",
+    "region": [
+      843,
+      684,
+      52,
+      52
+    ],
+    "composition": "Original rounded panel alpha/outline with phone chat gray translucent palette"
+  },
+  "Emote": {
+    "sprite": "59C14D0C",
+    "sheet": "UI6",
+    "region": [
+      1365,
+      712,
+      32,
+      32
+    ]
+  },
+  "EmoteSlot": {
+    "sprite": "F8B93B39",
+    "sheet": "UI6",
+    "region": [
+      1387,
+      656,
+      52,
+      52
+    ]
+  },
+  "EmotePanel": {
+    "sprite": "3251BC48",
+    "sheet": "UI6",
+    "region": [
+      843,
+      684,
+      52,
+      52
+    ]
+  },
+  "EmoteHeader": {
+    "sprite": "47898558",
+    "sheet": "UI6",
+    "region": [
+      1501,
+      660,
+      52,
+      52
+    ]
+  },
+  "Close": {
+    "sprite": "8BBB7E6A",
+    "sheet": "UI6",
+    "region": [
+      899,
+      1028,
+      28,
+      28
+    ]
+  },
+  "Category0": {
+    "sprite": "1D8A8861",
+    "sheet": "UI6",
+    "region": [
+      1978,
+      876,
+      36,
+      30
+    ]
+  },
+  "Category1": {
+    "sprite": "B8107F77",
+    "sheet": "UI6",
+    "region": [
+      715,
+      112,
+      36,
+      30
+    ]
+  },
+  "Category2": {
+    "sprite": "2B750FD9",
+    "sheet": "UI6",
+    "region": [
+      422,
+      880,
+      36,
+      30
+    ]
+  },
+  "Category3": {
+    "sprite": "5B3B1ABB",
+    "sheet": "UI6",
+    "region": [
+      248,
+      876,
+      36,
+      30
+    ]
+  },
+  "Category4": {
+    "sprite": "B73E5DCB",
+    "sheet": "UI6",
+    "region": [
+      1334,
+      872,
+      36,
+      30
+    ]
+  },
+  "Category5": {
+    "sprite": "C1076FEB",
+    "sheet": "UI6",
+    "region": [
+      1679,
+      876,
+      36,
+      30
+    ]
+  },
+  "Category6": {
+    "sprite": "0A2D9B41",
+    "sheet": "UI6",
+    "region": [
+      1720,
+      876,
+      36,
+      30
+    ]
+  }
+}

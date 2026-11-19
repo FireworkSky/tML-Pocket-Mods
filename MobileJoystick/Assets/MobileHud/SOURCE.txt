@@ -1,0 +1,4 @@
+Original phone UI6 sprites from the existing user-authorized atlas.
+No screenshot cuts. RGB premultiplied for tML AlphaBlend.
+Emote uses the first 32px cell of its original two-state sheet.
+Chat panel uses the phone gray palette on the original frame mask; selected chat/map glyphs have a thin gold contour. Exact compositions in ORIGINAL-SPRITES.json.

@@ -1,0 +1,421 @@
+Configs: {
+	MobileJoystickConfig: {
+		DisplayName: Mobile Joystick Config
+
+		Headers: {
+			General: General Header
+			Layout: Layout Header
+			Touch: Touch Header
+			Text: Text Header
+		}
+
+		EnableMobileControls: {
+			Label: Enable Mobile Controls
+			Tooltip: ""
+		}
+
+		UseMobileInventory: {
+			Label: Mobile inventory
+			Tooltip: Use mobile inventory, crafting, equipment, housing and PvP pages. Native special editors and the native extension view remain available.
+		}
+
+		EnableTouchInput: {
+			Label: Enable Touch Input
+			Tooltip: ""
+		}
+
+		EnableMouseFallback: {
+			Label: Enable Mouse Fallback
+			Tooltip: ""
+		}
+
+		JoystickUpJumps: {
+			Label: Joystick Up Jumps
+			Tooltip: ""
+		}
+
+		ShowTopButtons: {
+			Label: Show Top Buttons
+			Tooltip: ""
+		}
+
+		UseMobileMinimap: {
+			Label: Mobile Minimap
+			Tooltip: Use a compact landscape minimap while mobile controls are active.
+		}
+
+		ControlScale: {
+			Label: Control Scale
+			Tooltip: ""
+		}
+
+		Opacity: {
+			Label: Opacity
+			Tooltip: ""
+		}
+
+		EdgePadding: {
+			Label: Left/right safe margin
+			Tooltip: ""
+		}
+
+		JoystickDeadzone: {
+			Label: Joystick Deadzone
+			Tooltip: ""
+		}
+
+		AimDistance: {
+			Label: Aim Distance
+			Tooltip: ""
+		}
+
+		LeftStickOffsetX: {
+			Label: Left Stick Offset X
+			Tooltip: ""
+		}
+
+		LeftStickOffsetY: {
+			Label: Left Stick Offset Y
+			Tooltip: ""
+		}
+
+		RightStickOffsetX: {
+			Label: Right Stick Offset X
+			Tooltip: ""
+		}
+
+		RightStickOffsetY: {
+			Label: Right Stick Offset Y
+			Tooltip: ""
+		}
+
+		ControlLayout: {
+			Label: Control Layout
+			Tooltip: ""
+		}
+
+		ActiveCustomPresetIndex: {
+			Label: Active Custom Preset Index
+			Tooltip: ""
+		}
+
+		CustomPresets: {
+			Label: Custom Presets
+			Tooltip: ""
+		}
+
+		QuickStackToNearbyChests: {
+			Label: Quick Stack To Nearby Chests
+			Tooltip: ""
+		}
+
+		UIFontScale: {
+			Label: U I Font Scale
+			Tooltip: ""
+		}
+	}
+
+	MobileControlLayoutMode: {
+		Tooltip: ""
+
+		Simple: {
+			Label: Simple
+			Tooltip: ""
+		}
+
+		Advanced: {
+			Label: Advanced
+			Tooltip: ""
+		}
+
+		Custom: {
+			Label: Custom
+			Tooltip: ""
+		}
+	}
+
+	MobileCustomPreset: {
+		Tooltip: ""
+
+		Name: {
+			Label: Name
+			Tooltip: ""
+		}
+
+		Controls: {
+			Label: Controls
+			Tooltip: ""
+		}
+	}
+
+	MobileCustomControl: {
+		Tooltip: ""
+
+		Id: {
+			Label: Id
+			Tooltip: ""
+		}
+
+		Kind: {
+			Label: Kind
+			Tooltip: ""
+		}
+
+		JoystickRole: {
+			Label: Joystick Role
+			Tooltip: ""
+		}
+
+		Action: {
+			Label: Action
+			Tooltip: ""
+		}
+
+		TextureName: {
+			Label: Texture Name
+			Tooltip: ""
+		}
+
+		X: {
+			Label: X
+			Tooltip: ""
+		}
+
+		Y: {
+			Label: Y
+			Tooltip: ""
+		}
+
+		Size: {
+			Label: Size
+			Tooltip: ""
+		}
+
+		Multitouch: {
+			Label: Multitouch
+			Tooltip: ""
+		}
+
+		RadialActions: {
+			Label: Radial Actions
+			Tooltip: ""
+		}
+
+		RadialModKeybinds: {
+			Tooltip: ""
+			Label: Radial Mod Keybinds
+		}
+
+		ModKeybind: {
+			Tooltip: ""
+			Label: Mod Keybind
+		}
+	}
+
+	MobileCustomControlKind: {
+		Tooltip: ""
+
+		Joystick: {
+			Label: Joystick
+			Tooltip: ""
+		}
+
+		Button: {
+			Label: Button
+			Tooltip: ""
+		}
+
+		RadialMenu: {
+			Label: Radial Menu
+			Tooltip: ""
+		}
+	}
+
+	MobileJoystickRole: {
+		Tooltip: ""
+
+		Move: {
+			Label: Move
+			Tooltip: ""
+		}
+
+		Aim: {
+			Label: Aim
+			Tooltip: ""
+		}
+
+		Unbound: {
+			Tooltip: ""
+			Label: Unbound
+		}
+
+		Grapple: {
+			Tooltip: ""
+			Label: Grapple
+		}
+	}
+
+	MobileControlAction: {
+		Tooltip: ""
+
+		Jump: {
+			Label: Jump
+			Tooltip: ""
+		}
+
+		Grapple: {
+			Label: Grapple
+			Tooltip: ""
+		}
+
+		Heal: {
+			Label: Heal
+			Tooltip: ""
+		}
+
+		Mana: {
+			Label: Mana
+			Tooltip: ""
+		}
+
+		Buff: {
+			Label: Buff
+			Tooltip: ""
+		}
+
+		Mount: {
+			Label: Mount
+			Tooltip: ""
+		}
+
+		SmartInteract: {
+			Label: Smart Interact
+			Tooltip: ""
+		}
+
+		SmartCursor: {
+			Label: Smart Cursor
+			Tooltip: ""
+		}
+
+		AimModeToggle: {
+			Label: Aim Mode Toggle
+			Tooltip: ""
+		}
+
+		TargetLockToggle: {
+			Label: Target Lock Toggle
+			Tooltip: ""
+		}
+
+		Interact: {
+			Label: Interact
+			Tooltip: ""
+		}
+
+		UseItem: {
+			Label: Use Item
+			Tooltip: ""
+		}
+
+		Inventory: {
+			Label: Inventory
+			Tooltip: ""
+		}
+
+		Map: {
+			Label: Map
+			Tooltip: ""
+		}
+
+		MapStyle: {
+			Label: Map Style
+			Tooltip: ""
+		}
+
+		Settings: {
+			Label: Settings
+			Tooltip: ""
+		}
+
+		Chat: {
+			Label: Chat
+			Tooltip: ""
+		}
+
+		ZoomIn: {
+			Label: Zoom In
+			Tooltip: ""
+		}
+
+		ZoomOut: {
+			Label: Zoom Out
+			Tooltip: ""
+		}
+
+		Zoom: {
+			Label: Zoom
+			Tooltip: ""
+		}
+
+		QuickPotions: {
+			Label: Quick Potions
+			Tooltip: ""
+		}
+
+		RadialMenu: {
+			Label: Radial Menu
+			Tooltip: ""
+		}
+
+		Unbound: {
+			Label: Unbound
+			Tooltip: ""
+		}
+
+		SwapUseInteract: {
+			Label: Swap Use Interact
+			Tooltip: ""
+		}
+
+		CycleUseProfile: {
+			Label: Cycle Use Profile
+			Tooltip: ""
+		}
+
+		QuickMount: {
+			Label: Quick Mount
+			Tooltip: ""
+		}
+
+		AutoSelect: {
+			Label: Auto Select
+			Tooltip: ""
+		}
+
+		Loadout1: {
+			Label: Loadout1
+			Tooltip: ""
+		}
+
+		Loadout2: {
+			Label: Loadout2
+			Tooltip: ""
+		}
+
+		Loadout3: {
+			Label: Loadout3
+			Tooltip: ""
+		}
+
+		SwitchLoadout: {
+			Label: Switch Loadout
+			Tooltip: ""
+		}
+
+		ModKeybind: {
+			Tooltip: ""
+			Label: Mod Keybind
+		}
+	}
+}

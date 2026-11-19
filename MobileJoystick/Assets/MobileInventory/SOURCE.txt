@@ -1,0 +1,5 @@
+Original phone Terraria Unity UI atlas from the user-authorized data.unity3d.
+High-resolution UI TextAsset (1056), sheets 5/UI6 and 45/UI46, divisor 1.
+Native sprite colors and alpha silhouettes retained. RGB premultiplied for tML AlphaBlend.
+No screenshot crops. Exact hashes and regions: ORIGINAL-SPRITES.json.
+Game art belongs to its original Terraria/mobile-edition owners.

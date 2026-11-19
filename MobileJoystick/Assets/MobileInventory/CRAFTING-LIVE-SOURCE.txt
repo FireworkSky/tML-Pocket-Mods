@@ -1,0 +1,2 @@
+Crafting glyphs and empty recipe backgrounds now use original mobile atlas sprites.
+See SOURCE.txt and ORIGINAL-SPRITES.json. Furniture and consumables use native Terraria item icons at runtime.

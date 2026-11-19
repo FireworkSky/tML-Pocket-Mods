@@ -1,0 +1,4 @@
+﻿Live pause assets were derived from the user's connected Terraria Android display.
+Reference: obj/mobile-live-reference/phone-host-journey-pause.png
+Screen: 2400 x 1080; Terraria v1.4.5.4 Build 1508, captured 2026-11-04.
+obj/prepare-live-pause-assets.py removes labels from the button material and masks the eight icons; captured world pixels are excluded.

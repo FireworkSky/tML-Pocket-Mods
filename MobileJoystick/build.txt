@@ -1,0 +1,5 @@
+displayName = MobileJoystick
+author = yu
+version = 0.1.4
+buildIgnore = obj/*, bin/*, docs/*, tools/*, .git/*, .github/*, .gitignore, .gitattributes, *.md, 手机版按键纹理整合包/*
+side = Client
